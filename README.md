@@ -1,0 +1,1 @@
+# Golang Online Judge Input Lib
